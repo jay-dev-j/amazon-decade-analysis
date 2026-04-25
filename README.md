@@ -19,3 +19,11 @@ This project analyzes Amazon sales data from 2015–2025 using Python, SQL, and 
 ## ▶️ Run the Project
 ```bash
 streamlit run Home.py
+
+## 📊 Dataset
+
+Due to GitHub file size limitations, the full dataset is not included.
+
+🔗 Full dataset: (https://drive.google.com/drive/folders/12UReR_VfgdA09vvtHq1oWEnF44bbv32k?usp=drive_link)
+
+📁 A sample dataset is provided for testing.
